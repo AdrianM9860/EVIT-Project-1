@@ -1,0 +1,12 @@
+D:\Projects\ClothingSimulatorProject\ClothingSimulator\bin\Debug\ClothingSimulator.exe.config
+D:\Projects\ClothingSimulatorProject\ClothingSimulator\bin\Debug\ClothingSimulator.exe
+D:\Projects\ClothingSimulatorProject\ClothingSimulator\bin\Debug\ClothingSimulator.pdb
+D:\Projects\ClothingSimulatorProject\ClothingSimulator\obj\Debug\ClothingSimulator.csprojAssemblyReference.cache
+D:\Projects\ClothingSimulatorProject\ClothingSimulator\obj\Debug\ClothingSimulator.Form1.resources
+D:\Projects\ClothingSimulatorProject\ClothingSimulator\obj\Debug\ClothingSimulator.Properties.Resources.resources
+D:\Projects\ClothingSimulatorProject\ClothingSimulator\obj\Debug\ClothingSimulator.csproj.GenerateResource.cache
+D:\Projects\ClothingSimulatorProject\ClothingSimulator\obj\Debug\ClothingSimulator.exe
+D:\Projects\ClothingSimulatorProject\ClothingSimulator\obj\Debug\ClothingSimulator.pdb
+D:\Projects\ClothingSimulatorProject\ClothingSimulator\bin\Debug\SystemEngine.dll
+D:\Projects\ClothingSimulatorProject\ClothingSimulator\bin\Debug\SystemEngine.pdb
+D:\Projects\ClothingSimulatorProject\ClothingSimulator\obj\Debug\ClothingSimulator.csproj.CopyComplete
